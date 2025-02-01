@@ -1,4 +1,4 @@
-import React, {  HTMLAttributes, ReactNode } from 'react'
+import React, {  ReactNode } from 'react'
 import { twMerge } from 'tailwind-merge';
 
 interface Tagprops {
